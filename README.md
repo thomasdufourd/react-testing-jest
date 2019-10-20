@@ -1,4 +1,5 @@
 The code comes from [this tutorial](https://www.robinwieruch.de/react-testing-jest) 
+
 The app was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Install dependencies
@@ -6,8 +7,11 @@ The app was bootstrapped with [Create React App](https://github.com/facebook/cre
 
 ## How it works
 The test runner gets the tests to run from the config located in `jest.config.json`
+
 Tests are located in `src/App.spec.js`
+
 Snapshots are saved here: `src/__snapshots__`
+
 
 ### run the app
 `npm start`
